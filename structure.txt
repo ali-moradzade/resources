@@ -36,6 +36,7 @@ resources
 
 # ==================================
 # current file structure looks like:
+
 .
 ├── database
 │   └── momtazi
@@ -55,6 +56,15 @@ resources
 │           │   └── database-hw-1400-1401-fall.pdf
 │           └── slides
 │               └── database-slides-1400-1401-fall.pdf
+├── generalpphysics-lab-II
+│   ├── no-name
+│   │   └── 1400-1401-fall
+│   │       └── exams
+│   │           └── final.pdf
+│   └── saeidi-ahmadi
+│       └── 1400-1401-fall
+│           └── exams
+│               └── final.pdf
 ├── microprocessor-and-assembly-language
 │   └── farbeh
 │       ├── 1399-1400-fall
@@ -128,7 +138,7 @@ resources
 │       └── 1399-1400-fall
 │           └── hws
 │               └── 1399-1400-fall-rasti.pdf
-├── software-engineering-i
+├── software-engineering-I
 │   └── kalbasi
 │       ├── 1399-1400-spring
 │       │   └── exams
@@ -146,4 +156,4 @@ resources
 │               └── 1400-1401-fall-kalbasi.pdf
 └── structure.txt
 
-64 directories, 44 files
+71 directories, 46 files
