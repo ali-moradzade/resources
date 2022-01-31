@@ -1,0 +1,149 @@
+# use this structure if you want to contribute
+resources
+├── course-name1
+│   ├── instructor1
+│   │   ├── course-date1
+│   │   │   ├── exams
+│   │   │   │   ├── final
+│   │   │   │   ├── midterm
+│   │   │   │   ├── quiz1
+│   │   │   │   ├── quiz2
+│   │   │   │   ├── quiz3
+│   │   │   │   └── ...
+│   │   │   ├── hws
+│   │   │   │   ├── hw1
+│   │   │   │   ├── hw2
+│   │   │   │   ├── ..
+│   │   │   │   └── projects
+│   │   │   └── slides
+│   │   ├── course-date2
+│   │   ├── course-date3
+│   │   └── ...
+│   ├── instructor2
+│   ├── instructor3
+│   └── ...
+├── course-name2
+├── course-name3
+└── ...
+
+# =============
+# special notes
+1. try to use pdf over pictures.
+2. course name should be protal name for that lesson, with spaces and special characters converted to dash(-)
+3. try to put all projects, hws together in a file, if not possible put each one in the corresponding directory
+4. don't make empty directory.
+5. don't scare if you didn't use this structure, your contribution is important, i will fix the structure.
+
+# ==================================
+# current file structure looks like:
+.
+├── database
+│   └── momtazi
+│       ├── 1399-1400-fall
+│       │   └── hws
+│       │       └── database-hw-1399-1400-fall.pdf
+│       ├── 1399-1400-spring
+│       │   └── hws
+│       │       └── database-hw-1399-1400-spring.pdf
+│       └── 1400-1401-fall
+│           ├── exams
+│           │   ├── final
+│           │   │   └── final.pdf
+│           │   └── midterm
+│           │       └── midterm.pdf
+│           ├── hws
+│           │   └── database-hw-1400-1401-fall.pdf
+│           └── slides
+│               └── database-slides-1400-1401-fall.pdf
+├── microprocessor-and-assembly-language
+│   └── farbeh
+│       ├── 1399-1400-fall
+│       │   └── hws
+│       │       └── hws.pdf
+│       ├── 1399-1400-spring
+│       │   └── exams
+│       │       ├── midterm
+│       │       │   └── midterm.pdf
+│       │       ├── quiz2
+│       │       │   └── quiz2.pdf
+│       │       ├── quiz3
+│       │       │   └── quiz3.pdf
+│       │       └── quiz4
+│       │           └── quiz4.pdf
+│       └── 1400-1401-fall
+│           ├── exams
+│           │   ├── final
+│           │   │   └── final.pdf
+│           │   ├── midterm
+│           │   │   └── midterm.pdf
+│           │   ├── quiz1
+│           │   │   └── quiz1.pdf
+│           │   ├── quiz2
+│           │   │   └── quiz2.pdf
+│           │   └── quiz3
+│           │       └── quiz3.pdf
+│           ├── hws
+│           │   └── hws.pdf
+│           └── slides
+│               └── microprocessor-1400-1401-fall.pdf
+├── operating-systems
+│   └── javadi
+│       ├── 1399-1400-spring
+│       │   ├── exams
+│       │   │   ├── final.pdf
+│       │   │   ├── midterm.pdf
+│       │   │   └── quiz1.pdf
+│       │   └── hws
+│       │       └── 1399-1400-spring.pdf
+│       └── 1400-1401-fall
+│           ├── exams
+│           │   ├── final
+│           │   │   ├── final-explanation.pdf
+│           │   │   ├── final-multiple-choices.pdf
+│           │   │   └── final-multiple-choices-picture.pdf
+│           │   ├── midterm
+│           │   │   └── midterm.pdf
+│           │   └── quiz1
+│           │       └── quiz1.pdf
+│           ├── hws
+│           │   └── 1400-1401-fall.pdf
+│           └── slides
+│               └── operating-systems.pdf
+├── signals-and-systems
+│   ├── rahmati
+│   │   ├── 1399-1400-spring
+│   │   │   └── hws
+│   │   │       └── hws.pdf
+│   │   └── 1400-1401-fall
+│   │       ├── exams
+│   │       │   ├── final
+│   │       │   │   └── final.pdf
+│   │       │   └── midterm
+│   │       │       └── midterm.pdf
+│   │       ├── hws
+│   │       │   └── hws.pdf
+│   │       └── slides
+│   │           └── 1400-1401-fall-rahmati.pdf
+│   └── rasti
+│       └── 1399-1400-fall
+│           └── hws
+│               └── 1399-1400-fall-rasti.pdf
+├── software-engineering-i
+│   └── kalbasi
+│       ├── 1399-1400-spring
+│       │   └── exams
+│       │       ├── final.pdf
+│       │       └── midterm.pdf
+│       └── 1400-1401-fall
+│           ├── exams
+│           │   ├── final.pdf
+│           │   ├── midterm.pdf
+│           │   ├── quiz1.pdf
+│           │   └── quiz2.pdf
+│           ├── hws
+│           │   └── hws.pdf
+│           └── slides
+│               └── 1400-1401-fall-kalbasi.pdf
+└── structure.txt
+
+64 directories, 44 files
