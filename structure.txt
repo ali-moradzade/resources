@@ -28,34 +28,22 @@ resources
 
 # =============
 # special notes
-1. try to use pdf over pictures.
-2. course name should be protal name for that lesson, with spaces and special characters converted to dash(-)
-3. try to put all projects, hws together in a file, if not possible put each one in the corresponding directory
-4. don't make empty directory.
-5. don't scare if you didn't use this structure, your contribution is important, i will fix the structure.
+1. if you have a reposirty that contains course stuff, don't bother uploading your resources here,
+	just put your repository address in the link file.
+2. try to use pdf over pictures.
+3. course name should be protal name for that lesson, with spaces and special characters converted to dash(-).
+4. try to put all projects, hws together in a file, if not possible put each one in the corresponding directory.
+5. don't make empty directory.
+6. don't scare if you didn't use this structure, your contribution is important, i will fix the structure.
 
 # ==================================
 # current file structure looks like:
 
 .
-├── database
-│   └── momtazi
-│       ├── 1399-1400-fall
-│       │   └── hws
-│       │       └── database-hw-1399-1400-fall.pdf
-│       ├── 1399-1400-spring
-│       │   └── hws
-│       │       └── database-hw-1399-1400-spring.pdf
+├── data-structures-and-algorithms
+│   └── nazerfard
 │       └── 1400-1401-fall
-│           ├── exams
-│           │   ├── final
-│           │   │   └── final.pdf
-│           │   └── midterm
-│           │       └── midterm.pdf
-│           ├── hws
-│           │   └── database-hw-1400-1401-fall.pdf
-│           └── slides
-│               └── database-slides-1400-1401-fall.pdf
+│           └── link.txt
 ├── generalpphysics-lab-II
 │   ├── no-name
 │   │   └── 1400-1401-fall
@@ -119,6 +107,24 @@ resources
 │           │   └── 1400-1401-fall.pdf
 │           └── slides
 │               └── operating-systems.pdf
+├── principles-of-database-design
+│   └── momtazi
+│       ├── 1399-1400-fall
+│       │   └── hws
+│       │       └── database-hw-1399-1400-fall.pdf
+│       ├── 1399-1400-spring
+│       │   └── hws
+│       │       └── database-hw-1399-1400-spring.pdf
+│       └── 1400-1401-fall
+│           ├── exams
+│           │   ├── final
+│           │   │   └── final.pdf
+│           │   └── midterm
+│           │       └── midterm.pdf
+│           ├── hws
+│           │   └── database-hw-1400-1401-fall.pdf
+│           └── slides
+│               └── database-slides-1400-1401-fall.pdf
 ├── signals-and-systems
 │   ├── rahmati
 │   │   ├── 1399-1400-spring
@@ -156,4 +162,4 @@ resources
 │               └── 1400-1401-fall-kalbasi.pdf
 └── structure.txt
 
-71 directories, 46 files
+74 directories, 47 files
